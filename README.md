@@ -1,6 +1,6 @@
 Hey👋, I'm Prakarsh Pandey
-- 🌱 I’m currently learning Web Development, Project Management.
-- 💬 Ask me about C++, Data Structures, Web Development.
+- 🌱 I’m currently learning Flutter Development, Project Management.
+- 💬 Ask me about C++, Data Structures, Flutter Development.
 - 📫 Reach me at:
 - Email -prakarshp65@gmail.com
 - Linkedin-https://www.linkedin.com/in/prakarshpandeyin/
