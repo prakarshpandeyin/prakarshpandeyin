@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakarsh Pandey</h1>
-<h3 align="center">Flutter Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 - 🌱 I’m currently learning **Flutter Development,Data Structures & Algorithms**
 
