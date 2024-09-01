@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prakarsh Pandey</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🌱 I’m currently learning **Flutter Development,Data Structures & Algorithms**
+- 🌱 I’m currently learning **Frontend Development,Data Structures & Algorithms**
 
-- 💬 Ask me about **C++, Flutter Developement,Project Management**
+- 💬 Ask me about **C++, Frontend Developement,Project Management**
 
 - 📫 How to reach me **prakarshp65@gmail.com**
 
